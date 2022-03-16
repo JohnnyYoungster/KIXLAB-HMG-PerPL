@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+
+.upcoming-song {
+    text-align: center;
+    color:white;
+    font-weight: 500;
+    margin-bottom: 10px;
+    font-family: "Gilroy", sans-serif;
+
+}
+
+.all-song {
+    background-color: rgb(53, 53, 53);
+    border-radius: 20px;
+    /* opacity: 80%; */
+    padding: 10px;
+    overflow: scroll;
+    /* margin-left: 100px; */
+    margin-right: 0px;
+    width: 300px;
+}
+
+.each-song {
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+    display: flex;
+}
+
+.each-song-name {
+    flex: 1;
+}
+
+.each-song:hover {
+    background-color: rgb(29, 29, 29);
+    color: rgb(255, 139, 211);
+
+}
+
+.playlist-update {
+    color:white;
+    font-size: 16px;
+    padding: 20px;
+}

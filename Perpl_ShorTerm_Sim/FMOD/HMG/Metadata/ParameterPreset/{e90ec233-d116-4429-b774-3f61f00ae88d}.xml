@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{e90ec233-d116-4429-b774-3f61f00ae88d}">
+		<property name="name">
+			<value>tunnel</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b5687cd7-263f-4ef7-8fb0-804a40010d93}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{138551d4-4ad0-4f17-8665-03cdddc4622f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{138551d4-4ad0-4f17-8665-03cdddc4622f}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+}
+
+.chart-background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 450px;
+    height:450px;
+}

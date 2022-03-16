@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e51f8e74-1be5-4f30-ab30-9f2450d6b33f}">
+		<property name="assetPath">
+			<value>1-15 Dolphin Shoals (In the Sea _ Undersea).mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>187.71591836734694</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{311243dc-ae46-4bbf-a417-e92114aa6f21}</destination>
+		</relationship>
+	</object>
+</objects>
